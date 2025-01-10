@@ -1,0 +1,19 @@
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\bin\Debug\Gerenciador de Estoque.exe.config
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\bin\Debug\Gerenciador de Estoque.exe
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\bin\Debug\Gerenciador de Estoque.pdb
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador de Estoque.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.Form1.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.Properties.Resources.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador de Estoque.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador de Estoque.exe
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador de Estoque.pdb
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.Main.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmEstoque.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmClientes.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmListaDClientes.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmCadastrar.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmInserirProduto.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmEstoqueGeral.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmVendas.resources
+C:\Users\Pichau\Desktop\Exercicios coding\Wms\Gerenciador de Estoque\Gerenciador de Estoque\obj\Debug\Gerenciador_de_Estoque.FrmPerfil.resources

@@ -1,0 +1,3 @@
+Produto: Tenis Roxo, Marca: Nike, Código: 001, Valor: 250, Entrada: 10/11/2024, Saída: 10/12/2024, Quantidade: 15, Categoria: Roupa
+Produto: Violão, Marca: Os zé do Violão, Código: 002, Valor: 135,00, Entrada: 18/05/2024, Saída: 30/11/2024, Quantidade: 5, Categoria: Instrumento
+Produto: Camisa Bulls, Marca: Nike, Código: 003, Valor: 150,00, Entrada: 25/02/2023, Saída: 25/09/2023, Quantidade: 5, Categoria: Roupa
