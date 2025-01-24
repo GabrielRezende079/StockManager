@@ -1,2 +1,2 @@
 # StockManager
- C# and Note Blocks XD
+ C# and NoteBlocks
